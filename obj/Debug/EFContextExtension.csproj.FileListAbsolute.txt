@@ -1,0 +1,11 @@
+E:\Repos\DemoApp\EFContextExtension\obj\Debug\EFContextExtension.csproj.CoreCompileInputs.cache
+E:\Repos\DemoApp\EFContextExtension\bin\Debug\EFContextExtension.dll.config
+E:\Repos\DemoApp\EFContextExtension\bin\Debug\EFContextExtension.dll
+E:\Repos\DemoApp\EFContextExtension\bin\Debug\EFContextExtension.pdb
+E:\Repos\DemoApp\EFContextExtension\bin\Debug\EntityFramework.dll
+E:\Repos\DemoApp\EFContextExtension\bin\Debug\EntityFramework.SqlServer.dll
+E:\Repos\DemoApp\EFContextExtension\bin\Debug\EntityFramework.xml
+E:\Repos\DemoApp\EFContextExtension\bin\Debug\EntityFramework.SqlServer.xml
+E:\Repos\DemoApp\EFContextExtension\obj\Debug\EFContextExtension.csproj.CopyComplete
+E:\Repos\DemoApp\EFContextExtension\obj\Debug\EFContextExtension.dll
+E:\Repos\DemoApp\EFContextExtension\obj\Debug\EFContextExtension.pdb
